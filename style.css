@@ -1,0 +1,11 @@
+html{
+    background-color: mediumpurple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+button{
+    background-color: blueviolet;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: solid violet;
+}
